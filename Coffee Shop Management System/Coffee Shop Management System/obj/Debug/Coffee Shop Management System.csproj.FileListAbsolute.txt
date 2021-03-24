@@ -1,0 +1,48 @@
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.SignIn_Form.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Waiter_Information.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Menu_and_Billing_System.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Register_Form.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Salesman_Information.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Welcome_Cafe.resources
+C:\Users\Lenovo\source\repos\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Admin_Page.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csprojAssemblyReference.cache
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Admin_Page.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Menu_and_Billing_System.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Register_Form.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Salesman_Information.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.SignIn_Form.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Waiter_Information.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Welcome_Cafe.resources
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+C:\Users\Shaily\Desktop\8th Semester\Object Oriented Progtamming 8th Semester\Coffee-Shop-Management-System-bc2910944011fbb1fd94ff40653a190db15a9ae8\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe.config
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.exe
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\bin\Debug\Coffee Shop Management System.pdb
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csprojAssemblyReference.cache
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Admin_Page.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Menu_and_Billing_System.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Properties.Resources.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Register_Form.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Salesman_Information.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.SignIn_Form.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Waiter_Information.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee_Shop_Management_System.Welcome_Cafe.resources
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.GenerateResource.cache
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.csproj.CoreCompileInputs.cache
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.exe
+D:\Study\Project\C# Coffeeshop Management System\Coffee Shop Management System\Coffee Shop Management System\obj\Debug\Coffee Shop Management System.pdb
